@@ -5,3 +5,4 @@
 /piikkidata*.csv
 /DoubleMuRun2011A.csv
 .vscode
+__pycache__
