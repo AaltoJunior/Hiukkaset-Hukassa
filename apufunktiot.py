@@ -78,7 +78,7 @@ def tarkista_eventit(vars):
     while nimi_kesken==True:
         nimi=input('Kirjoita tiedostosi nimi (esim. piikkidata1):\n') 
         if nimi in vars:
-            nimi_kmesken=False
+            nimi_kesken=False
         elif nimi=='skip':
             return print('Tarkistus keskeytetty')
         else:

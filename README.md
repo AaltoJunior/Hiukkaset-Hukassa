@@ -47,8 +47,6 @@ Opettajan ohje: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinde
 
 Oppilaan ohje: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AaltoJunior/Hiukkaset-Hukassa/HEAD?filepath=%2FHiukkasetHukassaOppilas.ipynb)
 
-Diat: 
-
 # Tee varaus
 
 Työpajan voi tulla suorittamaan Aalto yliopiston Junior laboratorioon. Siellä kokonaisuuden vetää aiheeseen perehtynyt assari ja opettaja on paikalla seuraamassa ryhmän työskentelyä.
