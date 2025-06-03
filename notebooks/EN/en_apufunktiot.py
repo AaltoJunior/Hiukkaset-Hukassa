@@ -2,8 +2,8 @@ import matplotlib.image as mpimg
 import matplotlib.pyplot as plt
 import numpy as np
 
-img_happy = mpimg.imread('img/kuvitus_2.png')
-img_fustrated=mpimg.imread('img/kuvitus3.png')
+img_happy = mpimg.imread('../../img/kuvitus_2.png')
+img_fustrated=mpimg.imread('../../img/kuvitus3.png')
 
 
 def eventit(tiedosto):
